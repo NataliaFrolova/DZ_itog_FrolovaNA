@@ -6,3 +6,6 @@ for (int i = 0; i < result.Length; i++)
 {
 result[i] = array[rnd.Next(array.Length)];
 }
+Console.WriteLine();
+Console.WriteLine($"[{String.Join(", ", array)}] -> [{String.Join(", ", result)}]");
+Console.WriteLine();
