@@ -1,0 +1,15 @@
+D:\GB\C#\Iz_Frolova_NA\Iz\bin\Debug\net6.0\Iz.exe
+D:\GB\C#\Iz_Frolova_NA\Iz\bin\Debug\net6.0\Iz.deps.json
+D:\GB\C#\Iz_Frolova_NA\Iz\bin\Debug\net6.0\Iz.runtimeconfig.json
+D:\GB\C#\Iz_Frolova_NA\Iz\bin\Debug\net6.0\Iz.dll
+D:\GB\C#\Iz_Frolova_NA\Iz\bin\Debug\net6.0\Iz.pdb
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.csproj.AssemblyReference.cache
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.AssemblyInfoInputs.cache
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.AssemblyInfo.cs
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.csproj.CoreCompileInputs.cache
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.dll
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\refint\Iz.dll
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.pdb
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\Iz.genruntimeconfig.cache
+D:\GB\C#\Iz_Frolova_NA\Iz\obj\Debug\net6.0\ref\Iz.dll
